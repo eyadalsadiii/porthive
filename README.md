@@ -1,4 +1,4 @@
-# PortHive 🐝
+# PortHive
 
 > Multi-threaded Network Port Scanner  
 > Author: Eyad Alsadi (202211140) — University of Petra, 2025/2026  
@@ -101,6 +101,6 @@ Each log entry includes timestamp, thread name, protocol, host, port, and status
 
 ## GitHub Repository
 
-> [https://github.com/YOUR_USERNAME/porthive](https://github.com/YOUR_USERNAME/porthive)
+> [https://github.com/eyadalsadiii/porthive](https://github.com/eyadalsadiii/porthive)
 
 _Replace with your actual GitHub link before submitting._
