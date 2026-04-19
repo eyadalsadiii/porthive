@@ -50,7 +50,7 @@ python porthive.py -t <target> -p <port-range> -T <threads> [--udp]
 python porthive.py -t 192.168.1.1 -p 1-1024
 
 # Scan multiple hosts with 200 threads
-python porthive.py -t 192.168.1.1,192.168.1.2 -p 1-500 -T 200
+python porthive.py -t scanme.nmap.org -p 1-500 -T 200
 
 # Include UDP scan
 python porthive.py -t 10.0.0.1 -p 1-100 --udp
