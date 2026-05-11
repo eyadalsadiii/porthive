@@ -1,0 +1,3 @@
+# PortHive Phase 2 — External Dependencies
+# Install with:  pip install -r requirements.txt
+paramiko>=3.0.0
